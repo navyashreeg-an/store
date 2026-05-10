@@ -3,4 +3,6 @@ public class cl {
     public String toString() {
         return super.toString();
     }
+    public String toString() {
+        return super.toString();
 }
